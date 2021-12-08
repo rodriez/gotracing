@@ -1,4 +1,4 @@
-package tracing
+package gotracing
 
 type TracingProvider interface {
 	Setup(traceId string)
